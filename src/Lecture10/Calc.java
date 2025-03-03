@@ -1,3 +1,5 @@
+package Lecture10;
+
 public class Calc extends Object{
     public double add(int a, int b) {
         return a + b;

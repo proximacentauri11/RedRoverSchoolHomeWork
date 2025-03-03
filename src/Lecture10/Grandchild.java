@@ -1,3 +1,5 @@
+package Lecture10;
+
 public class Grandchild extends Child{
 
     final String lastName;

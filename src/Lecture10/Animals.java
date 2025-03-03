@@ -1,3 +1,5 @@
+package Lecture10;
+
 public class Animals {
     private String animalName;
     private String animalColor;

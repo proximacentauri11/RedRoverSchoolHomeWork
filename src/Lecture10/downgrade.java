@@ -1,3 +1,5 @@
+package Lecture10;
+
 public class downgrade {
 
     private final int grade;

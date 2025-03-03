@@ -1,3 +1,5 @@
+package Lecture10;
+
 public class TextScanner {
 
     public String scan(Book book) {

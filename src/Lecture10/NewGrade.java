@@ -1,3 +1,5 @@
+package Lecture10;
+
 public class NewGrade {
 
     private final int grade;
