@@ -1,6 +1,6 @@
 package Lecture10;
 
-public class Parent {
+public class Parent extends Object {
     private int number;
 
     public int getNumber() {
